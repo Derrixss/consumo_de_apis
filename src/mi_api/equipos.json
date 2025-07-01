@@ -1,0 +1,372 @@
+{
+  "equipos": [
+    {
+      "id": 1,
+      "nombre": "Monitor cardíaco",
+      "marca": "Philips",
+      "uso": "Cirugía",
+      "imagen": "https://www.google.com/search?q=monitor+cardíaco&tbm=isch",
+      "especializacion": "Pediatría",
+      "color": "rgba(186, 120, 86, 0.8)"
+    },
+    {
+      "id": 2,
+      "nombre": "Ventilador mecánico",
+      "marca": "GE Healthcare",
+      "uso": "Cuidado neonatal",
+      "imagen": "https://www.google.com/search?q=ventilador+mecánico&tbm=isch",
+      "especializacion": "Radiología",
+      "color": "rgba(225, 205, 237, 0.8)"
+    },
+    {
+      "id": 3,
+      "nombre": "Desfibrilador",
+      "marca": "Canon Medical",
+      "uso": "Diagnóstico",
+      "imagen": "https://www.google.com/search?q=desfibrilador&tbm=isch",
+      "especializacion": "Ginecología",
+      "color": "rgba(74, 156, 185, 0.8)"
+    },
+    {
+      "id": 4,
+      "nombre": "Bomba de infusión",
+      "marca": "Siemens",
+      "uso": "Cuidado neonatal",
+      "imagen": "https://www.google.com/search?q=bomba+de+infusión&tbm=isch",
+      "especializacion": "Emergencias",
+      "color": "rgba(99, 191, 92, 0.8)"
+    },
+    {
+      "id": 5,
+      "nombre": "Oxímetro de pulso",
+      "marca": "Mindray",
+      "uso": "Terapia",
+      "imagen": "https://www.google.com/search?q=oxímetro+de+pulso&tbm=isch",
+      "especializacion": "Cirugía",
+      "color": "rgba(115, 176, 84, 0.8)"
+    },
+    {
+      "id": 6,
+      "nombre": "Electrocardiógrafo",
+      "marca": "Baxter",
+      "uso": "Diagnóstico",
+      "imagen": "https://www.google.com/search?q=electrocardiógrafo&tbm=isch",
+      "especializacion": "Radiología",
+      "color": "rgba(185, 239, 233, 0.8)"
+    },
+    {
+      "id": 7,
+      "nombre": "Resonador magnético",
+      "marca": "Philips",
+      "uso": "Cuidado neonatal",
+      "imagen": "https://www.google.com/search?q=resonador+magnético&tbm=isch",
+      "especializacion": "Ginecología",
+      "color": "rgba(159, 238, 79, 0.8)"
+    },
+    {
+      "id": 8,
+      "nombre": "Tomógrafo axial",
+      "marca": "Philips",
+      "uso": "Diagnóstico",
+      "imagen": "https://www.google.com/search?q=tomógrafo+axial&tbm=isch",
+      "especializacion": "Neumología",
+      "color": "rgba(173, 124, 219, 0.8)"
+    },
+    {
+      "id": 9,
+      "nombre": "Máquina de rayos X",
+      "marca": "Baxter",
+      "uso": "Diagnóstico",
+      "imagen": "https://www.google.com/search?q=máquina+de+rayos+x&tbm=isch",
+      "especializacion": "Ginecología",
+      "color": "rgba(88, 232, 207, 0.8)"
+    },
+    {
+      "id": 10,
+      "nombre": "Ecógrafo portátil",
+      "marca": "Samsung Medison",
+      "uso": "Monitoreo",
+      "imagen": "https://www.google.com/search?q=ecógrafo+portátil&tbm=isch",
+      "especializacion": "Ginecología",
+      "color": "rgba(108, 195, 95, 0.8)"
+    },
+    {
+      "id": 11,
+      "nombre": "Lámpara quirúrgica",
+      "marca": "Nihon Kohden",
+      "uso": "Cuidado neonatal",
+      "imagen": "https://www.google.com/search?q=lámpara+quirúrgica&tbm=isch",
+      "especializacion": "Emergencias",
+      "color": "rgba(200, 149, 53, 0.8)"
+    },
+    {
+      "id": 12,
+      "nombre": "Camilla hidráulica",
+      "marca": "Siemens",
+      "uso": "Cirugía",
+      "imagen": "https://www.google.com/search?q=camilla+hidráulica&tbm=isch",
+      "especializacion": "Emergencias",
+      "color": "rgba(255, 149, 140, 0.8)"
+    },
+    {
+      "id": 13,
+      "nombre": "Silla de ruedas eléctrica",
+      "marca": "Canon Medical",
+      "uso": "Cirugía",
+      "imagen": "https://www.google.com/search?q=silla+de+ruedas+eléctrica&tbm=isch",
+      "especializacion": "Endocrinología",
+      "color": "rgba(228, 78, 185, 0.8)"
+    },
+    {
+      "id": 14,
+      "nombre": "Aspirador quirúrgico",
+      "marca": "Dräger",
+      "uso": "Terapia",
+      "imagen": "https://www.google.com/search?q=aspirador+quirúrgico&tbm=isch",
+      "especializacion": "Endocrinología",
+      "color": "rgba(86, 75, 65, 0.8)"
+    },
+    {
+      "id": 15,
+      "nombre": "Esterilizador de vapor",
+      "marca": "Nihon Kohden",
+      "uso": "Soporte vital",
+      "imagen": "https://www.google.com/search?q=esterilizador+de+vapor&tbm=isch",
+      "especializacion": "Cardiología",
+      "color": "rgba(181, 214, 130, 0.8)"
+    },
+    {
+      "id": 16,
+      "nombre": "Cámara hiperbárica",
+      "marca": "Baxter",
+      "uso": "Monitoreo",
+      "imagen": "https://www.google.com/search?q=cámara+hiperbárica&tbm=isch",
+      "especializacion": "Neumología",
+      "color": "rgba(172, 102, 210, 0.8)"
+    },
+    {
+      "id": 17,
+      "nombre": "Equipo de laparoscopía",
+      "marca": "Siemens",
+      "uso": "Monitoreo",
+      "imagen": "https://www.google.com/search?q=equipo+de+laparoscopía&tbm=isch",
+      "especializacion": "Cardiología",
+      "color": "rgba(150, 235, 224, 0.8)"
+    },
+    {
+      "id": 18,
+      "nombre": "Máquina CPAP",
+      "marca": "Siemens",
+      "uso": "Terapia",
+      "imagen": "https://www.google.com/search?q=máquina+cpap&tbm=isch",
+      "especializacion": "Pediatría",
+      "color": "rgba(75, 205, 119, 0.8)"
+    },
+    {
+      "id": 19,
+      "nombre": "Unidad de diálisis",
+      "marca": "Medtronic",
+      "uso": "Diagnóstico",
+      "imagen": "https://www.google.com/search?q=unidad+de+diálisis&tbm=isch",
+      "especializacion": "Ginecología",
+      "color": "rgba(126, 190, 90, 0.8)"
+    },
+    {
+      "id": 20,
+      "nombre": "Incubadora neonatal",
+      "marca": "Samsung Medison",
+      "uso": "Cuidado neonatal",
+      "imagen": "https://www.google.com/search?q=incubadora+neonatal&tbm=isch",
+      "especializacion": "Emergencias",
+      "color": "rgba(235, 214, 52, 0.8)"
+    },
+    {
+      "id": 21,
+      "nombre": "Colposcopio",
+      "marca": "Philips",
+      "uso": "Cirugía",
+      "imagen": "https://www.google.com/search?q=colposcopio&tbm=isch",
+      "especializacion": "Emergencias",
+      "color": "rgba(83, 143, 237, 0.8)"
+    },
+    {
+      "id": 22,
+      "nombre": "Sensor de glucosa",
+      "marca": "Dräger",
+      "uso": "Cuidado neonatal",
+      "imagen": "https://www.google.com/search?q=sensor+de+glucosa&tbm=isch",
+      "especializacion": "Cirugía",
+      "color": "rgba(161, 191, 132, 0.8)"
+    },
+    {
+      "id": 23,
+      "nombre": "Monitor de signos vitales",
+      "marca": "Mindray",
+      "uso": "Terapia",
+      "imagen": "https://www.google.com/search?q=monitor+de+signos+vitales&tbm=isch",
+      "especializacion": "Neumología",
+      "color": "rgba(182, 190, 116, 0.8)"
+    },
+    {
+      "id": 24,
+      "nombre": "Electrobisturí",
+      "marca": "Baxter",
+      "uso": "Monitoreo",
+      "imagen": "https://www.google.com/search?q=electrobisturí&tbm=isch",
+      "especializacion": "Ginecología",
+      "color": "rgba(93, 222, 242, 0.8)"
+    },
+    {
+      "id": 25,
+      "nombre": "Otoscopio digital",
+      "marca": "Baxter",
+      "uso": "Cuidado neonatal",
+      "imagen": "https://www.google.com/search?q=otoscopio+digital&tbm=isch",
+      "especializacion": "Emergencias",
+      "color": "rgba(217, 88, 229, 0.8)"
+    },
+    {
+      "id": 26,
+      "nombre": "Dermatoscopio",
+      "marca": "Dräger",
+      "uso": "Monitoreo",
+      "imagen": "https://www.google.com/search?q=dermatoscopio&tbm=isch",
+      "especializacion": "Radiología",
+      "color": "rgba(187, 245, 136, 0.8)"
+    },
+    {
+      "id": 27,
+      "nombre": "Microscopio quirúrgico",
+      "marca": "Samsung Medison",
+      "uso": "Monitoreo",
+      "imagen": "https://www.google.com/search?q=microscopio+quirúrgico&tbm=isch",
+      "especializacion": "Pediatría",
+      "color": "rgba(182, 59, 255, 0.8)"
+    },
+    {
+      "id": 28,
+      "nombre": "Nebulizador ultrasónico",
+      "marca": "Canon Medical",
+      "uso": "Soporte vital",
+      "imagen": "https://www.google.com/search?q=nebulizador+ultrasónico&tbm=isch",
+      "especializacion": "Pediatría",
+      "color": "rgba(138, 242, 137, 0.8)"
+    },
+    {
+      "id": 29,
+      "nombre": "Detector de venas",
+      "marca": "Baxter",
+      "uso": "Terapia",
+      "imagen": "https://www.google.com/search?q=detector+de+venas&tbm=isch",
+      "especializacion": "Ginecología",
+      "color": "rgba(102, 91, 213, 0.8)"
+    },
+    {
+      "id": 30,
+      "nombre": "Sistema de imagen térmica",
+      "marca": "Medtronic",
+      "uso": "Soporte vital",
+      "imagen": "https://www.google.com/search?q=sistema+de+imagen+térmica&tbm=isch",
+      "especializacion": "Endocrinología",
+      "color": "rgba(91, 114, 92, 0.8)"
+    },
+    {
+      "id": 31,
+      "nombre": "Monitor de apnea",
+      "marca": "Nihon Kohden",
+      "uso": "Cirugía",
+      "imagen": "https://www.google.com/search?q=monitor+de+apnea&tbm=isch",
+      "especializacion": "Emergencias",
+      "color": "rgba(191, 87, 62, 0.8)"
+    },
+    {
+      "id": 32,
+      "nombre": "Módulo ECG",
+      "marca": "Philips",
+      "uso": "Cuidado neonatal",
+      "imagen": "https://www.google.com/search?q=módulo+ecg&tbm=isch",
+      "especializacion": "Neumología",
+      "color": "rgba(254, 179, 193, 0.8)"
+    },
+    {
+      "id": 33,
+      "nombre": "Balanza digital médica",
+      "marca": "Canon Medical",
+      "uso": "Cuidado neonatal",
+      "imagen": "https://www.google.com/search?q=balanza+digital+médica&tbm=isch",
+      "especializacion": "Ginecología",
+      "color": "rgba(178, 234, 195, 0.8)"
+    },
+    {
+      "id": 34,
+      "nombre": "Equipo de endoscopía",
+      "marca": "Siemens",
+      "uso": "Terapia",
+      "imagen": "https://www.google.com/search?q=equipo+de+endoscopía&tbm=isch",
+      "especializacion": "Cirugía",
+      "color": "rgba(93, 65, 243, 0.8)"
+    },
+    {
+      "id": 35,
+      "nombre": "Autoclave automático",
+      "marca": "Baxter",
+      "uso": "Cirugía",
+      "imagen": "https://www.google.com/search?q=autoclave+automático&tbm=isch",
+      "especializacion": "Pediatría",
+      "color": "rgba(164, 191, 253, 0.8)"
+    },
+    {
+      "id": 36,
+      "nombre": "Manta térmica médica",
+      "marca": "Dräger",
+      "uso": "Diagnóstico",
+      "imagen": "https://www.google.com/search?q=manta+térmica+médica&tbm=isch",
+      "especializacion": "Pediatría",
+      "color": "rgba(248, 126, 150, 0.8)"
+    },
+    {
+      "id": 37,
+      "nombre": "Sistema de navegación quirúrgica",
+      "marca": "Canon Medical",
+      "uso": "Terapia",
+      "imagen": "https://www.google.com/search?q=sistema+de+navegación+quirúrgica&tbm=isch",
+      "especializacion": "Cardiología",
+      "color": "rgba(227, 223, 208, 0.8)"
+    },
+    {
+      "id": 38,
+      "nombre": "Láser oftálmico",
+      "marca": "GE Healthcare",
+      "uso": "Cuidado neonatal",
+      "imagen": "https://www.google.com/search?q=láser+oftálmico&tbm=isch",
+      "especializacion": "Emergencias",
+      "color": "rgba(51, 78, 68, 0.8)"
+    },
+    {
+      "id": 39,
+      "nombre": "Electroencefalógrafo",
+      "marca": "Philips",
+      "uso": "Monitoreo",
+      "imagen": "https://www.google.com/search?q=electroencefalógrafo&tbm=isch",
+      "especializacion": "Pediatría",
+      "color": "rgba(64, 57, 179, 0.8)"
+    },
+    {
+      "id": 40,
+      "nombre": "Sistema de telemedicina",
+      "marca": "Dräger",
+      "uso": "Soporte vital",
+      "imagen": "https://www.google.com/search?q=sistema+de+telemedicina&tbm=isch",
+      "especializacion": "Radiología",
+      "color": "rgba(113, 114, 142, 0.8)"
+    },
+    {
+      "id": "03b2",
+      "nombre": "Tomógrafo axial computarizado",
+      "marca": "Philips",
+      "uso": "Diagnóstico por imagen",
+      "especializacion": "diagnostico",
+      "imagen": "https://www.seisamed.com/wp-content/uploads/10-Equipos-medicos-que-no-deben-faltar-en-ningun-hospital.jpg"
+    }
+  ]
+}
